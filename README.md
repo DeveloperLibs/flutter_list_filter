@@ -5,6 +5,7 @@
 
 Flutter - ListView items custom filter. [Read me here](https://www.developerlibs.com/2018/11/flutter-listview-items-custom-filter.html)
 
+[Google Play Store](https://play.google.com/store/apps/details?id=com.devlibs.developerlibs) ,
 [YouTube](https://youtu.be/2-G7IH8ZRVg),
 [Facebook](https://www.facebook.com/developerlibs), 
 [G+](https://plus.google.com/109457600203481575432),
